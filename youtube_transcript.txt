@@ -1,0 +1,382 @@
+hi everyone I'm Jess the executive
+
+producer of Project Loki in these videos
+
+I cover some of the biggest changes
+
+coming in our upcoming play test and our
+
+thinking behind them we have so much to
+
+cover last month we hosted our first
+
+play test in EU and we loved seeing so
+
+many of you try Loki for the first time
+
+you shared a ton of great feedback which
+
+we've been digging into over the past
+
+few weeks one area we weren't satisfied
+
+with was game performance even though
+
+we're still in pre-alpha it's clear we
+
+need to do more to stabilize the game
+
+our server performance and your frame
+
+rates we managed to cut crashes in half
+
+with two mid playay test patches but
+
+that shouldn't be the default option so
+
+prior to this play test we've already
+
+run two smaller tests for stability
+
+including one to upgrade to Unreal 5.2
+
+definitely better that we hit these
+
+issues now than in it launch so thanks
+
+for your patience as for future EU play
+
+tests we're still seeing how feasible it
+
+is to run two separate Regional play
+
+tests every time but this upcoming 3-day
+
+play test will have servers and
+
+exclusive times for EU and na all right
+
+let's talk changes first we have two new
+
+hero in the Prototype phase prototypes
+
+mean we're testing gameplay loops and
+
+mechanics to see what's working before
+
+we move on to art or thematic
+
+exploration what this means is that
+
+their visuals will be very temp usually
+
+a borrowed or recolored model with lots
+
+of placeholder V effects and sound
+
+effects and sometimes a funny hat most
+
+Studios do this part of development
+
+internal only because it requires more
+
+squinting to see and because we expect
+
+to go through several different
+
+iterations in development that said
+
+you've been great at giving feedback on
+
+work in progress kits and we learned so
+
+much more getting them into your hands
+
+so in they go please leave feedback but
+
+don't get attached to anything just yet
+
+I won't go into details on the kits but
+
+one of them is a Melee character so I'll
+
+hit a big Community requested topic and
+
+give some thoughts on melee characters
+
+in Project Loki we said this before but
+
+Loki started out as a much slower MOBA
+
+Style game until we embraced our action
+
+gameplay now we describe ourselves as
+
+more of a mobile with the shooter soul
+
+with a big emphasis on shooter our time
+
+to kill is fast our hero abilities are
+
+sharp and our basic attacks are pretty
+
+lethal we love this combination because
+
+it means you can outplay other teams
+
+even if you're outnumbered but it does
+
+make designing melee Heroes a challenge
+
+we were finding our early melee
+
+prototypes would either die before they
+
+could engage or they would slam on top
+
+of targets and blow them up before they
+
+could react also the melee kits
+
+themselves were feeling a little flat as
+
+players were just swinging mindlessly
+
+when they got into range so entering
+
+this year our goal was to make melee
+
+Heroes more engaging from a playing as
+
+perspective and add more back and forth
+
+between melee Heroes and their ranged
+
+counterparts we now believe that melee
+
+Heroes needed more opportunities for
+
+re-engagement in a skirmish so less 100
+
+to zero moments on either side but more
+
+jockeying for position and employing
+
+hidden run strategies but trying to bake
+
+all of this into melee kits was putting
+
+a lot of other constraints on their
+
+design well what if everyone was a melee
+
+hero hear me out this play test we're
+
+experimenting a universal ability for
+
+all heroes a melee ability
+
+this melee starts Bound in your first
+
+Power slot but we're considering giving
+
+it its own button with it you can knock
+
+enemies back and stun them if they hit a
+
+wall as well as reflecting projectiles
+
+if timed correctly it looks like a punch
+
+but we're calling it a melee to keep AR
+
+thematic options open at a service level
+
+it gives all heroes an accessible
+
+disengaged option especially against
+
+other melees which opens up a lot more
+
+design space we're excited to see what
+
+kinds of plays you can pull off this
+
+test so share your clipse on Discord
+
+Switching gears something you've seen
+
+but we haven't had a chance to talk
+
+about are storm shifts functionally
+
+storm shifts act as game to game
+
+variants that change the behavior of
+
+that game these can be small changes
+
+like Final Destination which lets
+
+everyone know the final location of the
+
+circle all the way to things like
+
+infinite glider field which does what it
+
+says and totally changes your traversal
+
+options getting philosophical storm
+
+shifts are an important future for us
+
+for a couple of reasons first adaptation
+
+is a critical skill in Loki and we don't
+
+want it to feel like there's always a
+
+single optimal strategy second and more
+
+importantly storm shifts are how we
+
+preserve our studio development culture
+
+even through launch I know that sounds
+
+dramatic but it's true my belief is that
+
+we'll always take big swings to evolve
+
+and improve the game even years after
+
+we've launched but it can be hard to do
+
+that if we as players start becoming
+
+change ofers because we're used to
+
+playing the game out a certain way which
+
+really incentivizes designing the game
+
+in a way where it stays the same year
+
+after year luckily this doesn't have to
+
+be true for us storm shifts let us share
+
+some really wild experiments in a
+
+controlled way a reflection of our daily
+
+play testing culture where every morning
+
+we all play Loki as a studio and try out
+
+new changes from the previous day
+
+sometimes these changes are fun but
+
+arguably too crazy for every game of
+
+Loki well how about a storm shift now we
+
+have a way to Play and Learn and
+
+sometimes even discover a mechanic so
+
+good it gets baked into the base game
+
+speaking of experiments every play test
+
+we've been inspired watching our
+
+community share screenshots of
+
+leaderboards for individual Heroes and
+
+wins and wondered if we could do
+
+something more this is still in proti
+
+but we're trying out a new meta system
+
+called hype you gain hype by eliminating
+
+other teams and placing high in your
+
+lobby knocking out another team steals a
+
+portion of their hype and adds it to
+
+your squads every Lobby the team with
+
+the most hype the hype Squad will be
+
+called out and that's as far as our
+
+current experiment goes but if you like
+
+it we're kind of hyped at the
+
+possibilities imagine a world where we
+
+reset this daily and highlight the
+
+biggest hype squad or if the hype Squad
+
+could select the storm shift of the
+
+lobby lots of Poss possibilties so let
+
+us know and keep that hyp rolling okay I
+
+know this video is getting long and this
+
+is normally where I say there's a lot
+
+more in the patch nodes there's a lot
+
+more in patch notes but there's honestly
+
+so much this month that I'm just going
+
+to run through a list of stuff we're
+
+excited about so let's go one we've
+
+removed the landing
+
+slow two all long stuns have had their
+
+duration reduced three we have new
+
+blockouts for Huntress and Ronin as well
+
+as the UAV and Forge four we have lots
+
+of new perks and you can now pre-select
+
+your perks at game start by pressing F2
+
+uh next you now Auto pick up duplicate
+
+items and Enchanted items get their
+
+passive immediately and lastly we have a
+
+new Vault breaking mechanic but there's
+
+even more check the patch notes on
+
+Discord for full details and let us know
+
+if there are any topics you'd like to
+
+hear from us on and I'll see you later
+
+[Music]
+
+bye
+
